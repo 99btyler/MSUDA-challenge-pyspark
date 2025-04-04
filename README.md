@@ -1,5 +1,5 @@
-# MSUDA-challenge-sparksql
-MSU Data Analytics sparksql-challenge
+# MSUDA-challenge-pyspark
+MSU Data Analytics pyspark-challenge
 
 # Summary
 ### Dataset
